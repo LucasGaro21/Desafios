@@ -1,0 +1,7 @@
+D:\Visual Studio\Trabajos\DesafioInterfaces\DesafioInterfaces\bin\Debug\DesafioInterfaces.exe.config
+D:\Visual Studio\Trabajos\DesafioInterfaces\DesafioInterfaces\bin\Debug\DesafioInterfaces.exe
+D:\Visual Studio\Trabajos\DesafioInterfaces\DesafioInterfaces\bin\Debug\DesafioInterfaces.pdb
+D:\Visual Studio\Trabajos\DesafioInterfaces\DesafioInterfaces\obj\Debug\DesafioInterfaces.csproj.AssemblyReference.cache
+D:\Visual Studio\Trabajos\DesafioInterfaces\DesafioInterfaces\obj\Debug\DesafioInterfaces.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Trabajos\DesafioInterfaces\DesafioInterfaces\obj\Debug\DesafioInterfaces.exe
+D:\Visual Studio\Trabajos\DesafioInterfaces\DesafioInterfaces\obj\Debug\DesafioInterfaces.pdb
